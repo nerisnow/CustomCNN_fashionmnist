@@ -13,4 +13,4 @@ This project consists of a custom CNN model built to classify the images of the 
 
 The __cnnmnistfashion_customarch.ipynb__ consists of the model and the saved weights are stored in __models/weightsfashion.h5__ .<br />
 
-The __model__ folder also consists of __app.py__ with the flask app and __architecture.py__ consisting of the CustomNet Architecture.
+The __models__ folder also consists of __app.py__ with the flask app and __architecture.py__ consisting of the CustomNet Architecture.
